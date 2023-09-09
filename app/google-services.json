@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40985234285",
+    "firebase_url": "https://emailotp-c8414-default-rtdb.firebaseio.com",
+    "project_id": "emailotp-c8414",
+    "storage_bucket": "emailotp-c8414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40985234285:android:5020186decac4c9557a864",
+        "android_client_info": {
+          "package_name": "com.example.votingsystememail1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40985234285-gagk03quep1p7patbspgpcok1gou0sr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.votingsystememail1",
+            "certificate_hash": "10212b5aa9672001bc164b28a3efe1171283bc69"
+          }
+        },
+        {
+          "client_id": "40985234285-0i4uk3mh7n72hdkn211cisi4p92j4bct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzVdmpCjn8OvLfHBJeTz7HCrs3UtRl_8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40985234285-0i4uk3mh7n72hdkn211cisi4p92j4bct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
